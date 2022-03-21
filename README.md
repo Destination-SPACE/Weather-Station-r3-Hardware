@@ -1,2 +1,2 @@
-# Weather-Station-v3
-Destination Weather Station V3
+# Weather-Station-r3
+Destination Weather Station R3
